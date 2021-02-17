@@ -1,10 +1,11 @@
 ---
 timeToRead: 1
-authors: []
+authors:
+- Lina
 title: testtesttest
 excerpt: nur ein Test
 date: 2021-02-15T23:00:00+00:00
-hero: ''
+hero: "/images/pixnio-191626-725x483.jpg"
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat.![](/images/favicon.svg)Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
